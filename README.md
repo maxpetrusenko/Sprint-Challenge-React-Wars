@@ -1,6 +1,6 @@
 # Rick and Morty: React app
 
-Explored ReactJS, Function Components, component state, side effects and styling techniques. dDemonstrate proficiency by creating an application that uses ReactJS to consume live data retrieved from the World Wide Web and style that data nicely on the page.
+Explored ReactJS, Function Components, component state, side effects and styling techniques. Demonstrated proficiency by creating an application that uses ReactJS to consume live data retrieved from the World Wide Web and style that data nicely on the page.
 
 ## Description
 
